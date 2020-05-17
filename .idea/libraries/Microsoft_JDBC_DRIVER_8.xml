@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Microsoft JDBC DRIVER 8">
+    <CLASSES>
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/rus/samples/adaptive" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/rus/samples/alwaysencrypted" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/rus/samples/azureactivedirectoryauthentication" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/rus/samples/connections" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/rus/samples/constrained" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/rus/samples/dataclassification" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/rus/samples/datatypes" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/rus/samples/resultsets" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/rus/samples/sparse" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/samples/adaptive" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/samples/alwaysencrypted" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/samples/azureactivedirectoryauthentication" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/samples/connections" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/samples/constrained" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/samples/dataclassification" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/samples/datatypes" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/samples/resultsets" />
+      <root url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server/samples/sparse" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/Microsoft JDBC DRIVER 8.2 for SQL Server" recursive="false" />
+  </library>
+</component>
